@@ -23,4 +23,5 @@
 - VMware Workstation, python, Volatility, winpmem, Office 2021
 
 ## Running Scripts
-- If you want to run the scripts and see the output download Python 3.11.3, VSCode Extenstions Jupyter Notebook, and Python.
+- If you want to run the scripts and see the output download Python 3.11.3, VSCode Extenstions Jupyter, and Python.
+- Also, to fix importanterror restart jupyter kernel https://github.com/huggingface/transformers/issues/28191  
