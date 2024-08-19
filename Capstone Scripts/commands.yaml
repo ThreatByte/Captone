@@ -1,9 +1,0 @@
-commands:
-- vol.py -f physmem.raw --profile=Win10x64_19041 pslist > physmem.pslist.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 pstree > physmem.pstree.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 psxview > physmem.psxview.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 dlllist > physmem.dlllist.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 handles > physmem.handles.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 ldrmodules > physmem.ldrmodules.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 svcscan > physmem.svcscan.csv
-- vol.py -f physmem.raw --profile=Win10x64_19041 cmdline > physmem.cmdline.csv
