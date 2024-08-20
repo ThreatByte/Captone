@@ -1,9 +1,11 @@
 import subprocess
 import yaml
 
+RED = '\033[91m'
+
 #Output Banner
 def Banner():
-    print("Volatility Automation Script")
+    print( RED + "Volatility Automation Script")
 
 #Load yaml file
 def yaml_load(file_path):
